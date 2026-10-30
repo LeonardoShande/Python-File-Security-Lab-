@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Shande
+Copyright (c) 2026 File Security Lab Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+ADDITIONAL EDUCATIONAL-USE NOTICE
+
+This project is provided strictly for educational purposes to teach secure
+file-handling practices and common cryptographic pitfalls. The "vulnerability
+analysis" features (src/vulnerability_lab.py) operate only on files created by
+this project inside its own lab/ sandbox directory. Users must not repurpose
+any part of this project to attack, access, or tamper with systems, files, or
+accounts they do not own or do not have explicit authorization to test.
